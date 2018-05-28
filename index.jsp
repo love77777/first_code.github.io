@@ -1,6 +1,6 @@
 ﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<title>To MY LOVE</title>
+		<title>Love of a lifetime</title>
 	    
         <link type="text/css" rel="stylesheet" href="./index_files/default.css">
 		<script type="text/javascript" src="./index_files/jquery.min.js"></script>
@@ -23,7 +23,7 @@
 					<source src="http://sc.111ttt.com/up/mp3/13578191/5675BEB58762ABC0F85C1C343628AC72/%E6%83%85%E6%AD%8C%E6%82%A0%E6%89%AC%20-%20%E6%9C%AC%E5%85%AE.mp3" type="audio/mp3" />
 			</audio>
         <div id="main">
-            <div id="error">本页面采用HTML5编辑，目前您的浏览器无法显示，请换成谷歌(<a href="http://www.google.cn/chrome/intl/zh-CN/landing_chrome.html?hl=zh-CN&brand=CHMI">Chrome</a>)或者火狐(<a href="http://firefox.com.cn/download/">Firefox</a>)浏览器，或者其他游览器的最新版本。</div>
+            <div id="error">本页面采用HTML5编辑，目前您的浏览器无法显示，请换成谷歌(<a href="http://www.google.cn/chrome/intl/zh-CN/landing_chrome.html?hl=zh-CN&brand=CHMI">Chrome</a>)或者火狐(<a href="http://firefox.com.cn/download/">Firefox</a>)浏览器，或者其他浏览器的最新版本。</div>
             <div id="wrap">
                 <div id="text">
 			        <div id="code">
@@ -46,11 +46,11 @@
                         <span class="say">// You are my only girl..永远..</span><br>
 						<span class="say"> </span><br>
 						<span class="say"> </span><br>
-                        <span class="say"><span class="space"></span> -- Surine--</span>
+                        <span class="say"><span class="space"></span> -- 爱你的3--</span>
 			        </div>
                 </div>
                 <div id="clock-box">
-                    孙立伟<span class="STYLE1">与</span>苏曼<span class="STYLE1">已经相识了</span>
+                    宣宣<span class="STYLE1">与</span>妮妮<span class="STYLE1">已经相识了</span>
                   <div id="clock"></div>
               </div>
                 <canvas id="canvas" width="1100" height="680"></canvas>
@@ -192,9 +192,9 @@
 
         var textAnimate = eval(Jscex.compile("async", function () {
 		    var together = new Date();
-		    together.setFullYear(2015,9,20); 			//时间年月日
-		    together.setHours(16);						//小时	
-		    together.setMinutes(53);					//分钟
+		    together.setFullYear(2018,5,26); 			//时间年月日
+		    together.setHours(11);						//小时	
+		    together.setMinutes(45);					//分钟
 		    together.setSeconds(0);					//秒前一位
 		    together.setMilliseconds(2);				//秒第二位
 
